@@ -27,12 +27,15 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Books
 
-- [Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - a book with planty of patterns for tackling the challenges with legacy systems explained in great detail.
-- [Michael Feathers: Working Effectively with Legacy Code](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/) - the classic book that gives you hole for your old system with many small recipes for improving your old code base.
+- [Marianne Bellotti: Kill It with Fire (2021)](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/)
+- [David Scott Bernstein: Beyond Legacy Code (2015)](https://pragprog.com/titles/dblegacy/beyond-legacy-code/)
+- [Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns (2003)](http://scg.unibe.ch/download/oorp/) - a book with planty of patterns for tackling the challenges with legacy systems explained in great detail.
+- [Michael Feathers: Working Effectively with Legacy Code (2004)](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/) - the classic book that gives you hole for your old system with many small recipes for improving your old code base.
 
 
 ## Blog Posts
 
+- [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 
 ## Podcasts
 
@@ -40,13 +43,21 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 
 **Podcast Episodes**
-- [Grady Booch @ IEEE Software's On Architecture Podcast: Nine Things You Can Do with Old Software](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
+- [Grady Booch @ IEEE Software's On Architecture Podcast: Nine Things You Can Do with Old Software (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
 
 
 ## Talks
 
+- [Dylan Beattie @ NDC2019: Ctrl-Alt-Del: Learning to Love Legacy Code ](https://www.youtube.com/watch?v=wPjHuvulivM)
+- [Marianne Bellotti: Future Proofing Systems @ MLH Fellowship 2020](https://www.youtube.com/watch?v=_ICzo5r-7vY)
+- [Colin Breck @ QCon2017: Using Quality Views to Tackle Tech Debt @Tesla](https://www.infoq.com/presentations/quality-views-technical-debt/) - Colin Breck created a view of software qualities (or the absence from it) for bigger software systems to create more awareness for fixing technical debt.
 - [Eric Evans @ Øredev 2015: Strategic Design](https://www.feststelltaste.de/should-i-rewrite-or-reengineer-a-software-system/) - Eric Evans shares his view towards a more business-driven approach to rewrites (links to a blog post because video is not public yet).
 - [Michael Feathers @ QCon 2017: Strategic Code Deletion](https://www.infoq.com/presentations/remove-unneeded-code/) - "Michael Feathers describes techniques that generate more certainty around assessments of feature liveness, and strategies that can be used to remove code that does not have high value" (taken from the description).
+- [Andrea Goulet @ DC FULL STACK 2017: Putting the Right Developers on the Right Projects](https://www.youtube.com/watch?v=nVI2zfzKYqM)
+- [Sabrina Leandro @ DDD Europe 2019: How to rewrite, a bit at a time](https://www.youtube.com/watch?v=AmicHHpogEg)
+- [Maude Lemaire @ LeadDevAustin 2018: How to get away with refactoring](https://www.youtube.com/watch?v=34tLTZgvOxM)
+- [Sam Newman @ NDC Oslo 2019: Monolith Decomposition Patterns](https://www.youtube.com/watch?v=64w1zbpHGTg)
+- [Gernot Starke @ GOTO 2016: Improving Your Software ](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
 - [Jesse Toth @ RubyConf 2014: Easy rewrites with ruby and science!](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of github.com.
 
 
