@@ -1,6 +1,6 @@
 # Awesome Legacy Systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**A curated list of awesome resources and links about legacy systems.**
+**A curated list of awesome resources and links about tackling legacy systems that gives hope.**
 
 _Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list by [Markus Harrer](https://twitter.com/feststelltaste)._
 
@@ -80,6 +80,7 @@ This section lists other awesome lists in the area of legacy systems.
 
 - [Awesome Legacy Code](https://github.com/legacycoderocks/awesome-legacy-code) - a curated list of legacy systems with publicly available source code.
 - [Awesome Software Analytics](https://github.com/feststelltaste/awesome-software-analytics) - a curated list of awesome resources and links about Software Analytics &ndash; a discipline that tries to analyse software data to get ideas about improving legacy systems.
+- [Awesome Technical Debt](https://github.com/labcodes/awesome-technical-debt) - a curated list of Technical Debt talks, articles and books (there might be some overlaps)
 
 
 ## Contribute
