@@ -6,7 +6,7 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 
 ![](images/header_800.png)
 
-<small>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></small>
+<sub><sup>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></sub></sup>
 
 
 *This list is an open community project. Feel free to [contribute your ideas](contributing.md) to it.*
