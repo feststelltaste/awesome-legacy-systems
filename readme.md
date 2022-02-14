@@ -2,6 +2,7 @@
 
 _February 2022: This is the initial draft / work-in-progress of a new awesome list by [Markus Harrer](https://twitter.com/feststelltaste)._
 
+![](images/header_800.png)
 
 A curated list of awesome resources and links about legacy systems.
 
