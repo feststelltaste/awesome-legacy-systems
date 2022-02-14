@@ -1,10 +1,13 @@
 # Awesome Legacy Systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-_February 2022: This is the initial draft / work-in-progress of a new awesome list by [Markus Harrer](https://twitter.com/feststelltaste)._
+**A curated list of awesome resources and links about legacy systems.**
+
+_Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list by [Markus Harrer](https://twitter.com/feststelltaste)._
 
 ![](images/header_800.png)
 
-A curated list of awesome resources and links about legacy systems.
+<small>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></small>
+
 
 *This list is an open community project. Feel free to [contribute your ideas](contributing.md) to it.*
 
