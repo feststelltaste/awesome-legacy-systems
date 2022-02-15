@@ -1,15 +1,17 @@
 # Awesome Legacy Systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**A curated list of awesome resources and links about tackling legacy systems that gives hope.**
+> A curated list of awesome resources and links about tackling legacy systems that gives hope.
 
-_Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list by [Markus Harrer](https://twitter.com/feststelltaste)._
+
+Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created this repository to share a set of resources and links that I found valuable and inspiring while working with legacy systems. I hope that you'll like it, too! If you want to add something, feel free to [contribute your ideas](contributing.md).
+
+
+_Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list. Currently, there are some descriptions and the reasons of "why you should take a look at something" missing. But I find that it is already worth to take a look at it!._
 
 ![](images/header_800.png)
 
 <sub><sup>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></sub></sup>
 
-
-*This list is an open community project. Feel free to [contribute your ideas](contributing.md) to it.*
 
 **What is a "Legacy System"?**
 
