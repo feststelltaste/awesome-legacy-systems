@@ -15,7 +15,7 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 ## Bücher
 
-- [Carola Lilienthal: Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen](https://www.langlebige-softwarearchitekturen.de/) - über den Umgang mit verwachsenen Softwarearchitekturen &ndash; und wie diese mit Hilfe von Elementen aus der kognitiven Psychologie werkzeuggestützt analysiert und verbessert werden können.
+- [Carola Lilienthal: Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen (2019)](https://www.langlebige-softwarearchitekturen.de/) - über den Umgang mit verwachsenen Softwarearchitekturen &ndash; und wie diese mit Hilfe von Elementen aus der kognitiven Psychologie werkzeuggestützt analysiert und verbessert werden können.
 
 ## Talks
 
