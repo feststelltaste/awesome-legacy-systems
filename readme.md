@@ -24,7 +24,6 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 - [Blog Posts](#blog-posts)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
-- [Meetups](#meetups)
 - [Conferences](#conferences)
 - [Courses](#courses)
 - [Lists of Tools](#lists-of-tools)
@@ -49,7 +48,6 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 - [legacycode.rocks](https://www.legacycode.rocks/) - a podcast (and community) created by Andrea Goulet and M. Scott Ford from Corgibyte about the world of modernizing existing software applications.
 
-
 **Podcast Episodes**
 - [Grady Booch @ IEEE Software's On Architecture Podcast: Nine Things You Can Do with Old Software (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
 - [Dave Thomas @ SE-Radio Episode 242: Innovating Legacy Systems](https://www.se-radio.net/2015/11/se-radio-episode-242-dave-thomas-on-innovating-legacy-systems/)
@@ -70,19 +68,16 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Gernot Starke @ GOTO 2016: Improving Your Software ](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
 - [Jesse Toth @ RubyConf 2014: Easy rewrites with ruby and science!](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of github.com.
 
-## Meetups
-
-- [Legacy & Innovation (Germany)](https://www.meetup.com/de-DE/legacy-innovation/) - a meetup that focuses on topics around legacy systems with plenty of experience reports and inspiring content from practioners.
 
 ## Conferences
 
 - [The Legacy of SoCraTes](https://www.youtube.com/channel/UC0M37QolwmwobAY4Bt8Tszg) - an irregular online conference where speakers share their insights on how to approach legacy systems in a successful way. Plenty of talks from various directions make this resource valuable for people tackling legacy systems.
 
+
 ## Courses
 
 - [paid] [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
 - [paid] [Markus Harrer: Evolution and Improvement of Software Architectures](https://www.skillsmatter.com/workshops/863-evolution-and-improvement-of-software-architectures-with-markus-harrer) - a 3 full-day workshop that covers the analysis of the existing software architecture, the identification of solution approaches, and the implementation of improvements _(transparency hint: the trainer is one of the authors of this list)_.
-- [paid, german] [Hendrick Lösch: Refactoring: Bestehende Architekturen restrukturieren](https://www.linkedin.com/learning/refactoring-bestehende-architekturen-restrukturieren) - an online course that gives you an overview on what to do with your legacy systems: from the code-level the restructuring of complete application landscapes.
 
 
 ## Lists of Tools
