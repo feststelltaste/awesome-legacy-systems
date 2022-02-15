@@ -28,6 +28,7 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 - [Conferences](#conferences)
 - [Courses](#courses)
 - [Lists of Tools](#lists-of-tools)
+- [Other languages](#other-languages)
 - [Related Awesome Lists](#related-awesome-lists)
 
 _The resources are ordered alphabetically the first author's surname for books and articles or the name of the resource for all the other resources)_
@@ -92,6 +93,12 @@ There are plenty of tools out there that can help you with your legacy systems. 
 - [Analysis-Tools.dev](https://analysis-tools.dev/) - static analysis tools for many programming languages, build tools, config files and more.
 - [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - tools for in-depth runtime analysis.
 - [OpenAPM](https://openapm.io/landscape) - lists various Application Performance Management tools that can help you to find performance problems.
+
+## Other Languages
+
+This list focusses on contant in English. But there is also content out there in other languages.
+
+- [German] [Großartige Bestandssysteme](readme_de.md) - eine kuratierte Liste mit großartigen Ressourcen und Links zum Umgang mit Altsystemen, die Hoffnung macht.
 
 ## Related Awesome Lists
 
