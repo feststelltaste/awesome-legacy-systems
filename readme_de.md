@@ -6,11 +6,16 @@
 
 ## Inhalte
 
+- [Bücher](#bücher)
 - [Talks](#talks)
 - [Meetups](#meetups)
 - [Kurse](#kurse)
 
 _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Autorin bei Büchern und Artikeln geordnet (oder dem Namen der Ressourcen, wenn kein Autor oder Autorin vorhanden)._
+
+## Bücher
+
+- [Carola Lilienthal: Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen](https://www.langlebige-softwarearchitekturen.de/) - über den Umgang mit verwachsenen Softwarearchitekturen &ndash; und wie diese mit Hilfe von Elementen aus der kognitiven Psychologie werkzeuggestützt analysiert und verbessert werden können.
 
 ## Talks
 
