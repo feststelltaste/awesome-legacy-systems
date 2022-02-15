@@ -23,6 +23,7 @@ Legacy systems have their own fascinations and challenges that can be much more 
 
 - [Books](#books)
 - [Blogs](#blogs)
+- [Microsites](#microsites)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
 - [Conferences](#conferences)
@@ -54,6 +55,10 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Markus Harrer: 17 actions you can take to move your legacy system forward](https://twitter.com/feststelltaste/status/1451148235121299461) - a Twitter thread that lists which options you have when you want to do something with your legacy system.
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - a braindump that brings several methods for different legacy system modernization tasks together into one framework.
 
+## Microsites
+
+- [Architecture Improvement Method aim42](https://aim42.github.io/) - a collection of practices and patterns to support software evolution, modernization, maintenance, migration, and improvement of software systems. (transparency hint: the maintainer is one of the authors of this list).
+- [Patterns of Legacy Displacement: Effective modernization of legacy software systems](https://martinfowler.com/articles/patterns-legacy-displacement/) - a collection of procedures, patterns and experience reports around the piecemeal replacement of legacy systems.
 
 ## Podcasts
 
@@ -96,7 +101,6 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 There are plenty of tools out there that can help you with your legacy systems. This section lists existing lists so that you can find your tool that fit to your specific needs:
 
-- [Architecture Improvement Method aim42](https://aim42.github.io/) - a collection of practices and patterns to support software evolution, modernization, maintenance, migration, and improvement of software systems. (transparency hint: the maintainer is one of the authors of this list).
 - [Analysis-Tools.dev](https://analysis-tools.dev/) - static analysis tools for many programming languages, build tools, config files and more.
 - [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - tools for in-depth runtime analysis.
 - [OpenAPM](https://openapm.io/landscape) - lists various Application Performance Management tools that can help you to find performance problems.
