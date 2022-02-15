@@ -11,7 +11,7 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 
 *This list is an open community project. Feel free to [contribute your ideas](contributing.md) to it.*
 
-**What is a "Legacy System"?**  
+**What is a "Legacy System"?**
 
 > A legacy is something *valuable* that you have *inherited*. Similarly, legacy software is valuable software that you have inherited. The fact you have inherited it may mean that it is somewhat old-fashioned. It may have been developed using an outdated programming language, or an obsolete development method. Most likely it has changed hands several times, and shows signs of many modifications and adaptations. 
 >
@@ -24,6 +24,7 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 - [Blog Posts](#blog-posts)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
+- [Meetups](#meetups)
 - [Lists of Tools](#lists-of-tools)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -64,6 +65,9 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Gernot Starke @ GOTO 2016: Improving Your Software ](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
 - [Jesse Toth @ RubyConf 2014: Easy rewrites with ruby and science!](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of github.com.
 
+## Meetups
+
+- [Legacy & Innovation (Germany)](https://www.meetup.com/de-DE/legacy-innovation/) - a meetup that focuses on topics around legacy systems with plenty of experience reports and inspiring content from practioners.
 
 ## Lists of Tools
 
