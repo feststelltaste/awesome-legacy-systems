@@ -50,6 +50,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 **Blog Posts**
 
+- [Markus Harrer: 17 actions you can take to move your legacy system forward](https://twitter.com/feststelltaste/status/1451148235121299461) - a Twitter thread that lists which options you have when you want to do something with your legacy system.
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - a braindump that brings several methods for different legacy system modernization tasks together into one framework.
 
 
