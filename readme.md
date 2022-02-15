@@ -57,7 +57,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Talks
 
 - [Dylan Beattie @ NDC2019: Ctrl-Alt-Del: Learning to Love Legacy Code ](https://www.youtube.com/watch?v=wPjHuvulivM)
-- [Marianne Bellotti: Future Proofing Systems @ MLH Fellowship 2020](https://www.youtube.com/watch?v=_ICzo5r-7vY)
+- [Marianne Bellotti @ MLH Fellowship 2020: Future Proofing Systems](https://www.youtube.com/watch?v=_ICzo5r-7vY)
 - [Colin Breck @ QCon2017: Using Quality Views to Tackle Tech Debt @Tesla](https://www.infoq.com/presentations/quality-views-technical-debt/) - Colin Breck created a view of software qualities (or the absence from it) for bigger software systems to create more awareness for fixing technical debt.
 - [Eric Evans @ Øredev 2015: Strategic Design](https://www.feststelltaste.de/should-i-rewrite-or-reengineer-a-software-system/) - Eric Evans shares his view towards a more business-driven approach to rewrites (links to a blog post because video is not public yet).
 - [Michael Feathers @ QCon 2017: Strategic Code Deletion](https://www.infoq.com/presentations/remove-unneeded-code/) - "Michael Feathers describes techniques that generate more certainty around assessments of feature liveness, and strategies that can be used to remove code that does not have high value" (taken from the description).
