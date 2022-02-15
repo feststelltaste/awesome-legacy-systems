@@ -25,6 +25,7 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 - [Podcasts](#podcasts)
 - [Talks](#talks)
 - [Meetups](#meetups)
+- [Courses](#courses)
 - [Lists of Tools](#lists-of-tools)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -68,6 +69,11 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Meetups
 
 - [Legacy & Innovation (Germany)](https://www.meetup.com/de-DE/legacy-innovation/) - a meetup that focuses on topics around legacy systems with plenty of experience reports and inspiring content from practioners.
+
+## Courses
+
+- [paid, german] [Hendrick Lösch: Refactoring: Bestehende Architekturen restrukturieren](https://www.linkedin.com/learning/refactoring-bestehende-architekturen-restrukturieren) - an online course that gives you an overview on what to do with your legacy systems: from the code-level the restructoring of complete application landscapes.
+- [paid] [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
 
 ## Lists of Tools
 
