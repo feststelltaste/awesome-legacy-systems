@@ -7,7 +7,7 @@
 ## Inhalte
 
 - [Meetups](#meetups)
-- [Kurse](#courses)
+- [Kurse](#kurse)
 
 _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Autorin bei Büchern und Artikeln geordnet (oder dem Namen der Ressourcen, wenn kein Autor oder Autorin vorhanden)._
 
