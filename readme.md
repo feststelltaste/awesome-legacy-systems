@@ -42,6 +42,8 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns (2003)](http://scg.unibe.ch/download/oorp/) - a book with plenty of patterns for tackling the challenges with legacy systems explained in great detail.
 - [Michael Feathers: Working Effectively with Legacy Code (2004)](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/) - the classic book that gives you hope for your old system with many small recipes for improving your old codebase.
 - [Carola Lilienthal: Sustainable Software Architecture - Analyze and Reduce Technical Debt](https://sustainable-software-architecture.com/) - on how to deal with eroded software architectures &ndash; and how they can be analyzed and improved with the help of elements from cognitive psychology in a tool-supported way.
+- [Pini Reznik, Jamie Dobson, Michelle Gienow: Cloud Native Transformation - Practical Patterns for Innovation](https://learning.oreilly.com/library/view/cloud-native-transformation/9781492048893/) - albeit focussing on cloud native development, the book provides many patterns that you can also use in the classic on-premises world to get your software and team organization fit for the future.
+
 
 
 ## Blogs
