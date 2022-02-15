@@ -2,7 +2,7 @@
 
 **Eine kuratierte Liste mit großartigen Ressourcen und Links zum Umgang mit Altsystemen, die Hoffnung macht.**
 
-*Diese Liste ist eine ergänznde Version der englischsprachigen Liste ["Awesome Legacy Systems"](readme.md). Bitte besuche diese Liste für mehr Details über dieses Projekt.*
+*Diese Liste ist eine ergänzende Version der englischsprachigen Liste ["Awesome Legacy Systems"](readme.md). Bitte besuche diese Liste für mehr Details über dieses Projekt.*
 
 ## Inhalte
 
