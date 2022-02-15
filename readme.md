@@ -63,6 +63,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Andrea Goulet @ DC FULL STACK 2017: Putting the Right Developers on the Right Projects](https://www.youtube.com/watch?v=nVI2zfzKYqM)
 - [Sabrina Leandro @ DDD Europe 2019: How to rewrite, a bit at a time](https://www.youtube.com/watch?v=AmicHHpogEg)
 - [Maude Lemaire @ LeadDevAustin 2018: How to get away with refactoring](https://www.youtube.com/watch?v=34tLTZgvOxM)
+- [Sandro Mancuso @ Trendyol Tech Meetup 2021: Software Modernization: A strategic approach](https://www.youtube.com/watch?v=HbbLpYSeAgk)
 - [Sam Newman @ NDC Oslo 2019: Monolith Decomposition Patterns](https://www.youtube.com/watch?v=64w1zbpHGTg)
 - [Gernot Starke @ GOTO 2016: Improving Your Software ](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
 - [Jesse Toth @ RubyConf 2014: Easy rewrites with ruby and science!](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of github.com.
