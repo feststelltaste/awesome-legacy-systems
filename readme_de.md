@@ -13,7 +13,7 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 ## Meetups
 
-- [Legacy & Innovation (Germany)](https://www.meetup.com/de-DE/legacy-innovation/) - eine Online-Community, die sich auf Themen rund um Altsysteme konzentriert &ndash; und das mit vielen Erfahrungsberichten und inspirierenden Inhalten von Praktikern.
+- [Legacy & Innovation Meetup](https://www.meetup.com/de-DE/legacy-innovation/) - eine Online-Community, die sich auf Themen rund um Altsysteme konzentriert &ndash; und das mit vielen Erfahrungsberichten und inspirierenden Inhalten von Praktikern.
 
 ## Kurse
 
