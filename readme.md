@@ -35,7 +35,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Books
 
 - [Marianne Bellotti: Kill It with Fire (2021)](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/)
-- [David Scott Bernstein: Beyond Legacy Code (2015)](https://pragprog.com/titles/dblegacy/beyond-legacy-code/)
+- [David Scott Bernstein: Beyond Legacy Code (2015)](https://pragprog.com/titles/dblegacy/beyond-legacy-code/) - a book focussing on the agile way of improving legacy code. It includes plenty of material regarding the improvement of processes and tips for better collaboration, too. If you want so see how agile methodology fits into the area of legacy system modernization, this book is for you.
 - [Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns (2003)](http://scg.unibe.ch/download/oorp/) - a book with planty of patterns for tackling the challenges with legacy systems explained in great detail.
 - [Michael Feathers: Working Effectively with Legacy Code (2004)](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/) - the classic book that gives you hole for your old system with many small recipes for improving your old code base.
 
