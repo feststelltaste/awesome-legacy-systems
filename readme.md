@@ -2,23 +2,21 @@
 
 > A curated list of awesome resources and links about tackling legacy systems that gives hope.
 
-
 Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created this repository to share a set of resources and links that I found valuable and inspiring while working with legacy systems. I hope that you'll like it, too! If you want to add something, feel free to [contribute your ideas](contributing.md).
 
 
-_Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list. Currently, there are some descriptions and the reasons of "why you should take a look at something" missing. But I find that it is already worth to take a look at it!._
+_Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list. Currently, there are some descriptions and the reasons of "why you should take a look at something" missing. But I find that it is already worth taking a look at it!._
 
 ![](images/header_800.png)
 
 <sub><sup>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></sub></sup>
 
 
-**What is a "Legacy System"?**
+**What are legacy systems and why should I care?**
 
-> A legacy is something *valuable* that you have *inherited*. Similarly, legacy software is valuable software that you have inherited. The fact you have inherited it may mean that it is somewhat old-fashioned. It may have been developed using an outdated programming language, or an obsolete development method. Most likely it has changed hands several times, and shows signs of many modifications and adaptations. 
->
-> -- <cite>Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns
-</cite>
+Legacy Systems are systems that you might be too afraid of to change. But they are necessary because they make all the money for your company. Thus, developers often have to maintain these older systems whether they want or not.
+
+Legacy systems have their own fascinations and challenges that can be much more interesting than just gluing together some frameworks in a green-field project. But the lack of knowledge about how to tackle legacy systems is a big problem. Most developers just learn how to create new systems initially and not how to maintain existing ones or even evolve those systems. This list tries to close these gaps.
 
 ## Contents
 
