@@ -80,6 +80,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Courses
 
 - [paid] [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
+- [paid] [Markus Harrer: Evolution and Improvement of Software Architectures](https://www.skillsmatter.com/workshops/863-evolution-and-improvement-of-software-architectures-with-markus-harrer) - a 3 full-day workshop that covers the analysis of the existing software architecture, the identification of solution approaches, and the implementation of improvements _(transparency hint: the trainer is one of the authors of this list)_.
 - [paid, german] [Hendrick Lösch: Refactoring: Bestehende Architekturen restrukturieren](https://www.linkedin.com/learning/refactoring-bestehende-architekturen-restrukturieren) - an online course that gives you an overview on what to do with your legacy systems: from the code-level the restructuring of complete application landscapes.
 
 
