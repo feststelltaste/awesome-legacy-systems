@@ -61,6 +61,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Microsites
 
 - [Architecture Improvement Method aim42](https://aim42.github.io/) - a collection of practices and patterns to support software evolution, modernization, maintenance, migration, and improvement of software systems. (transparency hint: the maintainer is one of the authors of this list).
+- [Cloud Native Transformation Patterns: Tools for creating effective Cloud Native architecture &ndash; and remaking the way we work](https://www.cnpatterns.org/) - collection of patterns on different levels (strategy, development, operations etc.) that show many ideas what one can do with existing applications that should be moved to the cloud. Many of the patterns work also for non-cloud environments.
 - [Patterns of Legacy Displacement: Effective modernization of legacy software systems](https://martinfowler.com/articles/patterns-legacy-displacement/) - a collection of procedures, patterns and experience reports around the piecemeal replacement of legacy systems.
 
 ## Podcasts
