@@ -44,8 +44,8 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Blogs
 
-- [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com)
 - [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/)
+- [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com)
 
 
 **Blog Posts**
