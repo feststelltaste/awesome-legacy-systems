@@ -18,10 +18,11 @@ Legacy Systems are systems that you might be too afraid of to change. But they a
 
 Legacy systems have their own fascinations and challenges that can be much more interesting than just gluing together some frameworks in a green-field project. But the lack of knowledge about how to tackle legacy systems is a big problem. Most developers just learn how to create new systems initially and not how to maintain existing ones or even evolve those systems. This list tries to close these gaps.
 
+
 ## Contents
 
 - [Books](#books)
-- [Blog Posts](#blog-posts)
+- [Blogs](#blogs)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
 - [Conferences](#conferences)
@@ -32,6 +33,7 @@ Legacy systems have their own fascinations and challenges that can be much more 
 
 _The resources are ordered alphabetically the first author's surname for books and articles or the name of the resource for all the other resources)_
 
+
 ## Books
 
 - [Marianne Bellotti: Kill It with Fire (2021)](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/) - a book that gives a fresh look at working with legacy systems. It contains plenty of tips to assess architectures and provides guidance as well as tips for keeping modernization plans on track.
@@ -40,9 +42,16 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Michael Feathers: Working Effectively with Legacy Code (2004)](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/) - the classic book that gives you hope for your old system with many small recipes for improving your old codebase.
 
 
-## Blog Posts
+## Blogs
+
+- [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com)
+- [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/)
+
+
+**Blog Posts**
 
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - a braindump that brings several methods for different legacy system modernization tasks together into one framework.
+
 
 ## Podcasts
 
@@ -90,11 +99,13 @@ There are plenty of tools out there that can help you with your legacy systems. 
 - [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - tools for in-depth runtime analysis.
 - [OpenAPM](https://openapm.io/landscape) - lists various Application Performance Management tools that can help you to find performance problems.
 
+
 ## Other Languages
 
 This list focusses on contant in English. But there is also content out there in other languages.
 
 - [German] [Großartige Bestandssysteme](readme_de.md) - eine kuratierte Liste mit großartigen Ressourcen und Links zum Umgang mit Altsystemen, die Hoffnung macht.
+
 
 ## Related Awesome Lists
 
