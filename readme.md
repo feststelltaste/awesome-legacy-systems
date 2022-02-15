@@ -25,6 +25,7 @@ _Current state in February 2022: This is the initial draft / work-in-progress of
 - [Podcasts](#podcasts)
 - [Talks](#talks)
 - [Meetups](#meetups)
+- [Conferences](#conferences)
 - [Courses](#courses)
 - [Lists of Tools](#lists-of-tools)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -69,6 +70,10 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Meetups
 
 - [Legacy & Innovation (Germany)](https://www.meetup.com/de-DE/legacy-innovation/) - a meetup that focuses on topics around legacy systems with plenty of experience reports and inspiring content from practioners.
+
+## Conferences
+
+- [The Legacy of SoCraTes](https://www.youtube.com/channel/UC0M37QolwmwobAY4Bt8Tszg) - an irregular online conference where speakers share their insights on how to approach legacy systems in a successful way. Plenty of talks from various directions make this ressource valuable for people tackling legacy systems.
 
 ## Courses
 
