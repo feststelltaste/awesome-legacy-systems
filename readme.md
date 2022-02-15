@@ -51,6 +51,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 **Podcast Episodes**
 - [Grady Booch @ IEEE Software's On Architecture Podcast: Nine Things You Can Do with Old Software (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
+- [Dave Thomas @ SE-Radio Episode 242: Innovating Legacy Systems](https://www.se-radio.net/2015/11/se-radio-episode-242-dave-thomas-on-innovating-legacy-systems/)
 
 
 ## Talks
