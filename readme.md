@@ -94,7 +94,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 There are plenty of tools out there that can help you with your legacy systems. This section lists existing lists so that you can find your tool that fit to your specific needs:
 
-- [Architecture Improvement Method aim42](https://aim42.github.io/) - a collection of practices and patterns to support software evolution, modernization, maintenance, migration, and improvement of software systems.
+- [Architecture Improvement Method aim42](https://aim42.github.io/) - a collection of practices and patterns to support software evolution, modernization, maintenance, migration, and improvement of software systems. (transparency hint: the maintainer is one of the authors of this list).
 - [Analysis-Tools.dev](https://analysis-tools.dev/) - static analysis tools for many programming languages, build tools, config files and more.
 - [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - tools for in-depth runtime analysis.
 - [OpenAPM](https://openapm.io/landscape) - lists various Application Performance Management tools that can help you to find performance problems.
