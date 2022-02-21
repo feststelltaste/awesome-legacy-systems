@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources and links about tackling legacy systems that gives hope.
 
-Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created this repository to share a set of resources and links that I found valuable and inspiring while working with legacy systems. I hope that you'll like it, too! If you want to add something, feel free to [contribute your ideas](contributing.md).
+Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created this repository to share a set of resources and links that I found valuable and inspiring while working with legacy systems. I hope that you'll like it, too! If you want to add something, feel free to [contribute your ideas](contributing.md). You can also [support the community](support.md) in several ways!
 
 
 _Current state in February 2022: This is the initial draft / work-in-progress of a new awesome list. Currently, there are some descriptions and the reasons of "why you should take a look at something" missing. But I find that it is already worth taking a look at it!._
@@ -100,7 +100,6 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Courses
 
 - [paid] [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
-- [paid] [Markus Harrer: Evolution and Improvement of Software Architectures](https://www.skillsmatter.com/workshops/863-evolution-and-improvement-of-software-architectures-with-markus-harrer) - a 3 full-day workshop that covers the analysis of the existing software architecture, the identification of solution approaches, and the implementation of improvements _(transparency hint: the trainer is one of the authors of this list)_.
 
 
 ## Lists of Tools
