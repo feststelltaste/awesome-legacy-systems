@@ -8,6 +8,7 @@
 ## Inhalte
 
 - [Bücher](#bücher)
+- [Blogs](#blogs)
 - [Microsites](#microsites)
 - [Talks](#talks)
 - [Meetups](#meetups)
@@ -19,6 +20,12 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 ## Bücher
 
 - [Carola Lilienthal: Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen (2019)](https://www.langlebige-softwarearchitekturen.de/) - über den Umgang mit verwachsenen Softwarearchitekturen &ndash; und wie diese mit Hilfe von Elementen aus der kognitiven Psychologie werkzeuggestützt analysiert und verbessert werden können.
+
+## Blogs
+
+**Blog Posts**
+
+* [Stephan Kaps: Migrationsstrategien im Vergleich (2016)](https://www.heise.de/ratgeber/Migrationsstrategien-im-Vergleich-3283418.html) - Vorstellung und Diskussion verschiedener, klassischer Migrationsstrategien zur Migration von Anwendungen.
 
 
 ## Microsites
