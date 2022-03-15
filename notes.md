@@ -3,3 +3,5 @@
 
 * https://codecoroner.podigee.io/
 * Phoenix Project
+* https://xp123.com/articles/refactoring-whole-team-guide/
+* https://martinfowler.com/articles/bottlenecks-of-scaleups/
