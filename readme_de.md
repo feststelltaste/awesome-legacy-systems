@@ -47,3 +47,4 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 ## Kurse
 
 - [bezahlt] [Hendrick Lösch: Refactoring: Bestehende Architekturen restrukturieren](https://www.linkedin.com/learning/refactoring-bestehende-architekturen-restrukturieren) - ein Online-Kurs, der einen Überblick darüber gibt, was Du mit einem Altsystemen alles anstellen kannst: von der Code-Ebene bis zur Umstrukturierung kompletter Anwendungslandschaften.
+- [Matthias Riebisch: Vorlesung Software-Reengineering](https://lecture2go.uni-hamburg.de/l2go/-/get/v/27278) - eine komplette Vorlesung, welche das Thema "Reengineering von Softwaresystemen" abdeckt. Besonders gefallen mir die Referenzen auf das Buch "Object-oriented Reengineering Patterns" sowie der ständige Bezug auf die Verbesserung geschäftskritischer Systeme.
