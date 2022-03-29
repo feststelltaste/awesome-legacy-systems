@@ -37,7 +37,7 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 ## Podcasts
 **Episoden**
 
-* [Jan Hegewald: über neue Features & nachhaltiger Software-Architektur bei Zalando](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
+* [Jan Hegewald @ Digitale Leute Insights: über neue Features & nachhaltiger Software-Architektur bei Zalando](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
 
 ## Talks
 
