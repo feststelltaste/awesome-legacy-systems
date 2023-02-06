@@ -20,7 +20,10 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 ## Bücher
 
+- [Fabian Ahrendts, Anita Marton: IT-Risikomanagement leben! Wirkungsvolle Umsetzung für Projekte in der Softwareentwicklung (2007)](https://link.springer.com/book/10.1007/978-3-540-30025-0) - Systematischer Ansatz zum Sammeln und Priorisieren von Risiken. Enthält zudem einen Maßnahmenkatalog, der auf Basis von Risikoindikatoren entsprechende Abhilfen vorschlägt. Kann gut für eine erste Ideenfindung bei der Lösungserarbeitung dienen.
 - [Carola Lilienthal: Langlebige Software-Architekturen: Technische Schulden analysieren, begrenzen und abbauen (2019)](https://www.langlebige-softwarearchitekturen.de/) - über den Umgang mit verwachsenen Softwarearchitekturen &ndash; und wie diese mit Hilfe von Elementen aus der kognitiven Psychologie werkzeuggestützt analysiert und verbessert werden können.
+
+
 
 ## Blogs
 
