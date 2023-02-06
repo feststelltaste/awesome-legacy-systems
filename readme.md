@@ -127,6 +127,9 @@ This section lists other awesome lists in the area of legacy systems.
 - [Awesome Software Analytics](https://github.com/feststelltaste/awesome-software-analytics) - a curated list of awesome resources and links about Software Analytics &ndash; a discipline that tries to analyze software data to get ideas about improving legacy systems.
 - [Awesome Technical Debt](https://github.com/labcodes/awesome-technical-debt) - a curated list of Technical Debt talks, articles, and books. _(there might be some overlaps with this list)_
 
+## License
+
+Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
 
 ## Contribute
 
