@@ -35,6 +35,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Books
 
 - [Robert Annett: Working with Legacy Systems (2019)](https://www.packtpub.com/product/working-with-legacy-systems/9781838982560) -  a short book that gives you plenty of tips on what you can do with legacy systems.
+- [Len Bass, Paul Clements, Rick Kazman – Software Architecture in Practice (2021)](https://www.oreilly.com/library/view/software-architecture-in/9780136885979/) - although this book focuses on software architecture in general, I like the idea of "architectural tactics" that propose solutions you can choose to fulfill specific quality goals like "deployability," "performance," or "security." This book could be a valuable source for you when you want to improve your existing system.
 - [Marianne Bellotti: Kill It with Fire (2021)](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/) - a book that gives a fresh look at working with legacy systems. It contains plenty of tips to assess architectures and provides guidance as well as tips for keeping modernization plans on track.
 - [David Scott Bernstein: Beyond Legacy Code (2015)](https://pragprog.com/titles/dblegacy/beyond-legacy-code/) - a book focussing on the agile way of improving legacy code. It includes plenty of material regarding improving processes and tips for better collaboration, too. If you want to see how agile methodology fits into the area of legacy system modernization, this book is for you.
 - [Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns (2003)](http://scg.unibe.ch/download/oorp/) - a book with plenty of patterns for tackling the challenges with legacy systems explained in great detail.
@@ -44,7 +45,6 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Sam Newman: Monolith to Microservices - Evolutionary Patterns to Transform Your Monolith (2019)](https://samnewman.io/books/monolith-to-microservices/) - shows various decomposition patterns for incrementally moving functionality out of a monolith. Focuses on microservices, but can also be used if you plan to split one application into several modules or systems (incl. the data).
 - [Pini Reznik, Jamie Dobson, Michelle Gienow: Cloud Native Transformation - Practical Patterns for Innovation (2019)](https://learning.oreilly.com/library/view/cloud-native-transformation/9781492048893/) - albeit focussing on cloud native development, the book provides many patterns that you can also use in the classic on-premises world to get your software and team organization fit for the future.
 - [Girish Suryanarayana, Ganesh Samarthyam, Tushar Sharma: Refactoring for Software Design Smells, Managing Technical Debt (2014)](https://www.elsevier.com/books/refactoring-for-software-design-smells/suryanarayana/978-0-12-801397-7) - presents a comprehensive catalog of 25 design smells, their role in identifying design issues, and potential refactoring solutions. Includes illustrative examples and anecdotes drawn from the trenches of real-world projects.
-
 
 
 ## Blogs
