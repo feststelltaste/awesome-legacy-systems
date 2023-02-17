@@ -68,7 +68,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Podcasts
 
-- [legacycode.rocks](https://www.legacycode.rocks/) - a podcast (and community) created by Andrea Goulet and M. Scott Ford from Corgibyte about the world of modernizing existing software applications.
+- [legacycode.rocks](https://www.legacycode.rocks/) - a podcast (and community) created by Andrea Goulet and M. Scott Ford from Corgibytes about the world of modernizing existing software applications.
 
 **Podcast Episodes**
 - [Grady Booch @ IEEE Software's On Architecture Podcast: Nine Things You Can Do with Old Software (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
