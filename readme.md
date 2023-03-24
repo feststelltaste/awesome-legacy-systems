@@ -76,7 +76,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 
 ## Talks
-
+- [Dave Farley @ Continuous Delivery YouTube Channel: From Legacy Code To STATE OF THE ART DEVELOPMENT](https://www.youtube.com/watch?v=_gs3MjJBEfs) - Dave is a Continous Delivery advocate. In this video, he addresses the options you might take if you don't start developing a software system from scract / on the green field: Refactor, improve feedback cycles, introduce testing and automate deployment!
 - [Dylan Beattie @ NDC2019: Ctrl-Alt-Del: Learning to Love Legacy Code ](https://www.youtube.com/watch?v=wPjHuvulivM&t=635s)
 - [Marianne Bellotti @ MLH Fellowship 2020: Future Proofing Systems](https://www.youtube.com/watch?v=_ICzo5r-7vY)
 - [Colin Breck @ QCon2017: Using Quality Views to Tackle Tech Debt @Tesla](https://www.infoq.com/presentations/quality-views-technical-debt/) - Colin Breck created a view of software qualities (or the absence from it) for bigger software systems to create more awareness for fixing technical debt.
