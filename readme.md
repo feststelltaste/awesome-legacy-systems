@@ -93,7 +93,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 
 ## Conferences
-
+- [MenderCon](https://mendercon.com/) - a full-day virtual conference (and unconference) about modernizing and improving software systems.
 - [The Legacy of SoCraTes](https://www.youtube.com/channel/UC0M37QolwmwobAY4Bt8Tszg) - an irregular online conference where speakers share their insights on how to approach legacy systems in a successful way. Plenty of talks from various directions make this resource valuable for people tackling legacy systems.
 
 
