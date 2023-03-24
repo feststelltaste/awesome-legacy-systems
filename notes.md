@@ -8,3 +8,6 @@
 * The Mikado Method
 * Martin Fowler: Refactoring
 * Joshua Kerievsky: Refactoring to Patterns
+* Testing and Refactoring Legacy Code: https://www.youtube.com/watch?v=LSqbXorkyfQ
+* "Rewriting Legacy Code" with Anna Filina: https://www.youtube.com/watch?v=0GL4Xs5lRqM
+* Software Modernisation, by Sandro Mancuso: https://www.youtube.com/watch?v=tXiBhxLbGUA
