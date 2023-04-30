@@ -43,11 +43,12 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 ## Podcasts
 **Episoden**
 
-* [Jan Hegewald @ Digitale Leute Insights: über neue Features & nachhaltiger Software-Architektur bei Zalando](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
+* [Veronika Jungwirth, Thomas Ronzon und Dr. Ralph Miarka: SoftwareArchitekTOUR - Episode 91: Software-Retrofit – Soft und Hard Skills Hand in Hand (2023)](https://www.heise.de/blog/Episode-91-Software-Retrofit-Soft-und-Hard-Skills-Hand-in-Hand-7133866.html) - die Podcast-Folge beschreibt sehr gut, wie erste Schritte sowie Workshops für Softwaremodernisierung durchführen werden können.
+* [Jan Hegewald @ Digitale Leute Insights: über neue Features & nachhaltiger Software-Architektur bei Zalando (2022)](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
 
 ## Talks
 
-- [Carola Lilienthal @ RheinJUG 2017: Langlebige Softwarearchitekture­n – der Weg aus den technischen Schulden](https://www.youtube.com/watch?v=Nfzuy4L9_UM) - über Architekturerosion und wie diese werkzeuggestützt wieder korrigiert werden kann.
+- [Carola Lilienthal @ RheinJUG 2017: Langlebige Softwarearchitekturen – der Weg aus den technischen Schulden](https://www.youtube.com/watch?v=Nfzuy4L9_UM) - über Architekturerosion und wie diese werkzeuggestützt wieder korrigiert werden kann.
 - [Gernot Starke @ Big Techday 2018: Hilfe, Kind im Brunnen - Systematisch technische Schulden abbauen](https://www.youtube.com/watch?v=t5UjySfIDZ4) - Motivation und Vorstellung eines systematischen Vorgehens zur Verbesserung von Softwarearchitekturen und -systemen.
 
 
