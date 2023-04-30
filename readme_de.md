@@ -31,6 +31,7 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 **Blog Posts**
 
 * [Stephan Kaps: Migrationsstrategien im Vergleich (2016)](https://www.heise.de/ratgeber/Migrationsstrategien-im-Vergleich-3283418.html) - Vorstellung und Diskussion verschiedener, klassischer Migrationsstrategien zur Migration von Anwendungen.
+* [Thomas Ronzon, Henning Schwentner, Veronika Kotrba, Dr. Ralph Miarka: Die 7 Schritte zum Software-Retrofit](https://www.informatik-aktuell.de/entwicklung/methoden/die-7-schritte-zum-software-retrofit.html) - Beschreibung eines Vorgehens, um mit alten Systemen wieder Land zu gewinnen inkl. vieler praxisnaher Tipps und Werkzeugen.
 
 
 ## Microsites
