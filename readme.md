@@ -105,7 +105,9 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Courses
 
+- [paid] [iSAQB IMPROVE - Evolution and Improvement of Software Architectures](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/improve/) - a three-day workshop on addressing problems in legacy systems at the architecture, design, and code levels.
 - [paid] [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
+
 
 
 ## Lists of Tools
