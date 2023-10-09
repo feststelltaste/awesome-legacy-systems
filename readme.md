@@ -92,7 +92,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Andrea Goulet: Putting the Right Developers on the Right Projects @ DC FULL STACK 2017](https://www.youtube.com/watch?v=nVI2zfzKYqM)
 - [Gregor Hohpe: The architect elevator - Connecting IT and the boardroom @ AWS re:Invent 2021](https://www.youtube.com/watch?v=nNbnXTl2VFQ) - a talk about connecting the different needs of different stakeholders of different layers of an organization. Great insights into how to motivate and translate modernization ideas from the engine room to something people in the penthouse can understand and work with.
 - [Sabrina Leandro: How to rewrite, a bit at a time @ DDD Europe 2019](https://www.youtube.com/watch?v=AmicHHpogEg)
-- [Maude Lemaire: How to get away with refactorin @ LeadDevAustin 2018](https://www.youtube.com/watch?v=34tLTZgvOxM)
+- [Maude Lemaire: How to get away with refactoring @ LeadDevAustin 2018](https://www.youtube.com/watch?v=34tLTZgvOxM)
 - [Sandro Mancuso: Software Modernization: A strategic approach @ Trendyol Tech Meetup 2021](https://www.youtube.com/watch?v=HbbLpYSeAgk)
 - [Sam Newman: Monolith Decomposition Patterns @ NDC Oslo 2019](https://www.youtube.com/watch?v=64w1zbpHGTg)
 - [Gernot Starke: Improving Your Software @ GOTO 2016](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
