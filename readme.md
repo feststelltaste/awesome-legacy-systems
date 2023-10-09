@@ -76,26 +76,27 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [maintainable.fm](https://www.maintainable.fm/)- a podcast by Robby Russell interviewing seasoned practitioners that know how to work with technical debt and legacy code.
 
 **Podcast Episodes**
-- [Grady Booch @ IEEE Software's On Architecture Podcast: Nine Things You Can Do with Old Software (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
-- [Gernot Starke @ aim42 with Gernot Starke: Conversations about Software Engineering (2017)](https://www.case-podcast.org/14-aim42-with-gernot-starke)
-- [Dave Thomas @ SE-Radio Episode 242: Innovating Legacy Systems](https://www.se-radio.net/2015/11/se-radio-episode-242-dave-thomas-on-innovating-legacy-systems/)
+- [Grady Booch: Nine Things You Can Do with Old Software @ IEEE Software's On Architecture Podcast (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - what you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
+- [Andrea Goulet: Learning to love Legacy Code with Andrea Goulet from CorgiBytes @ Hanselminutes Podcast by Scott Hanselman (2016)](https://hanselminutes.com/539/learning-to-love-legacy-code-with-andrea-goulet-from-corgibytes)
+- [Gernot Starke: aim42 with Gernot Starke @ Conversations about Software Engineering (2017)](https://www.case-podcast.org/14-aim42-with-gernot-starke)
+- [Dave Thomas: SE-Radio Episode 242: Innovating Legacy Systems @ Software Engineering Radio (2015)](https://www.se-radio.net/2015/11/se-radio-episode-242-dave-thomas-on-innovating-legacy-systems/)
 
 
 ## Talks
-- [Dylan Beattie @ NDC2019: Ctrl-Alt-Del: Learning to Love Legacy Code ](https://www.youtube.com/watch?v=wPjHuvulivM&t=635s)
-- [Marianne Bellotti @ MLH Fellowship 2020: Future Proofing Systems](https://www.youtube.com/watch?v=_ICzo5r-7vY)
-- [Colin Breck @ QCon2017: Using Quality Views to Tackle Tech Debt @Tesla](https://www.infoq.com/presentations/quality-views-technical-debt/) - Colin Breck created a view of software qualities (or the absence from it) for bigger software systems to create more awareness for fixing technical debt.
-- [Eric Evans @ Øredev 2015: Strategic Design](https://www.feststelltaste.de/should-i-rewrite-or-reengineer-a-software-system/) - Eric Evans shares his view towards a more business-driven approach to rewrites (links to a blog post because video is not public yet).
-- [Dave Farley @ Continuous Delivery YouTube Channel: From Legacy Code To STATE OF THE ART DEVELOPMENT](https://www.youtube.com/watch?v=_gs3MjJBEfs) - Dave is a Continous Delivery advocate. In this video, he addresses the options you might take if you don't start developing a software system from scract / on the green field: Refactor, improve feedback cycles, introduce testing and automate deployment!
-- [Michael Feathers @ QCon 2017: Strategic Code Deletion](https://www.infoq.com/presentations/remove-unneeded-code/) - "Michael Feathers describes techniques that generate more certainty around assessments of feature liveness, and strategies that can be used to remove code that does not have high value" (taken from the description).
-- [Andrea Goulet @ DC FULL STACK 2017: Putting the Right Developers on the Right Projects](https://www.youtube.com/watch?v=nVI2zfzKYqM)
-- [Gregor Hohpe @ AWS re:Invent 2021: The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) - a talk about connecting the different needs of different stakeholders of different layers of an organization. Great insights into how to motivate and translate modernization ideas from the engine room to something people in the penthouse can understand and work with.
-- [Sabrina Leandro @ DDD Europe 2019: How to rewrite, a bit at a time](https://www.youtube.com/watch?v=AmicHHpogEg)
-- [Maude Lemaire @ LeadDevAustin 2018: How to get away with refactoring](https://www.youtube.com/watch?v=34tLTZgvOxM)
-- [Sandro Mancuso @ Trendyol Tech Meetup 2021: Software Modernization: A strategic approach](https://www.youtube.com/watch?v=HbbLpYSeAgk)
-- [Sam Newman @ NDC Oslo 2019: Monolith Decomposition Patterns](https://www.youtube.com/watch?v=64w1zbpHGTg)
-- [Gernot Starke @ GOTO 2016: Improving Your Software ](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
-- [Jesse Toth @ RubyConf 2014: Easy rewrites with ruby and science!](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of github.com.
+- [Dylan Beattie: Ctrl-Alt-Del - Learning to Love Legacy Code @ NDC2019](https://www.youtube.com/watch?v=wPjHuvulivM&t=635s)
+- [Marianne Bellotti: Future Proofing Systems @ MLH Fellowship 2020](https://www.youtube.com/watch?v=_ICzo5r-7vY)
+- [Colin Breck: Using Quality Views to Tackle Tech Debt at Tesla @ QCon2017](https://www.infoq.com/presentations/quality-views-technical-debt/) - Colin Breck created a view of software qualities (or the absence from it) for bigger software systems to create more awareness for fixing technical debt.
+- [Eric Evans: Strategic Design @ Øredev 2015](https://www.feststelltaste.de/should-i-rewrite-or-reengineer-a-software-system/) - Eric Evans shares his view towards a more business-driven approach to rewrites (links to a blog post because video is not public yet).
+- [Dave Farley: From Legacy Code To STATE OF THE ART DEVELOPMENT @ Continuous Delivery YouTube Channel (2023)](https://www.youtube.com/watch?v=_gs3MjJBEfs) - Dave is a Continous Delivery advocate. In this video, he addresses the options you might take if you don't start developing a software system from scract / on the green field: Refactor, improve feedback cycles, introduce testing and automate deployment!
+- [Michael Feathers: Strategic Code Deletion @ QCon 2017](https://www.infoq.com/presentations/remove-unneeded-code/) - "Michael Feathers describes techniques that generate more certainty around assessments of feature liveness, and strategies that can be used to remove code that does not have high value" (taken from the description).
+- [Andrea Goulet: Putting the Right Developers on the Right Projects @ DC FULL STACK 2017](https://www.youtube.com/watch?v=nVI2zfzKYqM)
+- [Gregor Hohpe: The architect elevator - Connecting IT and the boardroom @ AWS re:Invent 2021](https://www.youtube.com/watch?v=nNbnXTl2VFQ) - a talk about connecting the different needs of different stakeholders of different layers of an organization. Great insights into how to motivate and translate modernization ideas from the engine room to something people in the penthouse can understand and work with.
+- [Sabrina Leandro: How to rewrite, a bit at a time @ DDD Europe 2019](https://www.youtube.com/watch?v=AmicHHpogEg)
+- [Maude Lemaire: How to get away with refactorin @ LeadDevAustin 2018](https://www.youtube.com/watch?v=34tLTZgvOxM)
+- [Sandro Mancuso: Software Modernization: A strategic approach @ Trendyol Tech Meetup 2021](https://www.youtube.com/watch?v=HbbLpYSeAgk)
+- [Sam Newman: Monolith Decomposition Patterns @ NDC Oslo 2019](https://www.youtube.com/watch?v=64w1zbpHGTg)
+- [Gernot Starke: Improving Your Software @ GOTO 2016](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
+- [Jesse Toth: Easy rewrites with ruby and science! @ RubyConf 2014](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of github.com.
 
 
 ## Conferences
