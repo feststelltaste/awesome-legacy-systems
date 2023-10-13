@@ -135,11 +135,6 @@ This section lists other awesome lists in the area of legacy systems.
 - [Awesome Modernization](https://github.com/modernizing/awesome-modernization) - awesome legacy system modernization tools. _(partly in Chinese)_
 - [Awesome Software Analytics](https://github.com/feststelltaste/awesome-software-analytics) - a curated list of awesome resources and links about Software Analytics &ndash; a discipline that tries to analyze software data to get ideas about improving legacy systems.
 - [Awesome Technical Debt](https://github.com/labcodes/awesome-technical-debt) - a curated list of Technical Debt talks, articles, and books. _(there might be some overlaps with this list)_
-
-## License
-
-Creative Commons Attribution-ShareAlike 4.0 International License. (CC BY-SA 4.0)
-
 ## Contribute
 
 Did you like this list? Contributions are very welcome! Read the [contribution guidelines](contributing.md) first and add your ideas!
