@@ -2,8 +2,7 @@
 
 > A curated list of awesome resources and links about tackling legacy systems that gives hope.
 
-Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created this repository to share a set of resources and links that I found valuable and inspiring while working with legacy systems. I hope that you'll like it, too! If you want to add something, feel free to [contribute your ideas](contributing.md). You can also [support the community](support.md) in several ways!
-
+Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created this repository to share a set of resources and links that I found valuable and inspiring while working with legacy systems. I hope that you'll like it, too!
 ![](images/header_800.png)
 
 <sub><sup>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></sub></sup>
