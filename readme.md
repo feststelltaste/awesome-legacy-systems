@@ -7,10 +7,6 @@ Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created thi
 
 <sub><sup>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></sub></sup>
 
-## Introduction
-
-### What are legacy systems and why should I care?
-
 Legacy Systems are systems that you might be too afraid of to change. But they are necessary because they make all the money for your company. Thus, developers often have to maintain these older systems whether they want or not.
 
 Legacy systems have their own fascinations and challenges that can be much more interesting than just gluing together some frameworks in a green-field project. But the lack of knowledge about how to tackle legacy systems is a big problem. Most developers just learn how to create new systems initially and not how to maintain existing ones or even evolve those systems. This list tries to close these gaps.
@@ -28,6 +24,7 @@ Legacy systems have their own fascinations and challenges that can be much more 
 - [Lists of Tools](#lists-of-tools)
 - [Other Languages](#other-languages)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Contributing](#contributing)
 
 _The resources are ordered alphabetically the first author's surname for books and articles or the name of the resource for all the other resources)_
 
@@ -96,7 +93,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Sandro Mancuso: Software Modernization: A strategic approach @ Trendyol Tech Meetup 2021](https://www.youtube.com/watch?v=HbbLpYSeAgk)
 - [Sam Newman: Monolith Decomposition Patterns @ NDC Oslo 2019](https://www.youtube.com/watch?v=64w1zbpHGTg)
 - [Gernot Starke: Improving Your Software @ GOTO 2016](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
-- [Jesse Toth: Easy rewrites with ruby and science! @ RubyConf 2014](https://www.youtube.com/watch?v=kgDqUHWVw4A) - a story told about rewriting the permission system at GitHub, a big, mission-critical part of the whole platform.
+- [Jesse Toth: Easy rewrites with ruby and science! @ RubyConf 2014](https://www.youtube.com/watch?v=kgDqUHWVw4A) - A story told about rewriting the permission system at GitHub, a big, mission-critical part of the whole platform.
 
 
 ## Conferences
@@ -135,6 +132,7 @@ This section lists other awesome lists in the area of legacy systems.
 - [Awesome Modernization](https://github.com/modernizing/awesome-modernization) - Awesome legacy system modernization tools. _(partly in Chinese)_
 - [Awesome Software Analytics](https://github.com/feststelltaste/awesome-software-analytics) - A curated list of awesome resources and links about Software Analytics &ndash; a discipline that tries to analyze software data to get ideas about improving legacy systems.
 - [Awesome Technical Debt](https://github.com/labcodes/awesome-technical-debt) - a curated list of Technical Debt talks, articles, and books. _(there might be some overlaps with this list)_
-## Contribute
+
+## Contributing
 
 Did you like this list? Contributions are very welcome! Read the [contribution guidelines](contributing.md) first and add your ideas!
