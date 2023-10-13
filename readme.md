@@ -8,8 +8,9 @@ Hi! My name is [Markus Harrer](https://github.com/feststelltaste). I created thi
 
 <sub><sup>Image source: <a href='https://www.freepik.com/vectors/ancient-scroll'>Ancient scroll vector created by upklyak - www.freepik.com</a></sub></sup>
 
+## Introduction
 
-**What are legacy systems and why should I care?**
+### What are legacy systems and why should I care?
 
 Legacy Systems are systems that you might be too afraid of to change. But they are necessary because they make all the money for your company. Thus, developers often have to maintain these older systems whether they want or not.
 
@@ -106,8 +107,8 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Courses
 
-- [paid] [iSAQB IMPROVE - Evolution and Improvement of Software Architectures](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/improve/) - A three-day workshop on addressing problems in legacy systems at the architecture, design, and code levels.
-- [paid] [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
+- [iSAQB IMPROVE - Evolution and Improvement of Software Architectures (commercial offering)](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-advanced-level/improve/) - A three-day workshop on addressing problems in legacy systems at the architecture, design, and code levels.
+- [M. Scott Ford: Agile Software Development - Dealing with Legacy Code and Technical Debt (commercial offering)](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt)
 
 
 
