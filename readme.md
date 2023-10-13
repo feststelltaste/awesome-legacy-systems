@@ -24,7 +24,6 @@ Legacy systems have their own fascinations and challenges that can be much more 
 - [Lists of Tools](#lists-of-tools)
 - [Other Languages](#other-languages)
 - [Related Awesome Lists](#related-awesome-lists)
-- [Contributing](#contributing)
 
 _The resources are ordered alphabetically the first author's surname for books and articles or the name of the resource for all the other resources)_
 
@@ -51,7 +50,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 - [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/)
 - [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com)
-- [Torsten Mandry: Visualizing the progress of a refactoring into a hexagonal architecture using jQAssistant](https://www.innoq.com/en/blog/visualizing-progress-of-refactoring-into-hexagonal-architecture-using-jqassistant/) - tracking long-term architectural refactorings with architecture management tools. Nice application using constraints / rule violations to track the desired and current architecture style differences.
+- [Torsten Mandry: Visualizing the progress of a refactoring into a hexagonal architecture using jQAssistant](https://www.innoq.com/en/blog/visualizing-progress-of-refactoring-into-hexagonal-architecture-using-jqassistant/) - Tracking long-term architectural refactorings with architecture management tools. Nice application using constraints / rule violations to track the desired and current architecture style differences.
 - [Peter Morlion: Helping companies tackle legacy code, and other software development musings](https://www.petermorlion.com/)
 
 
@@ -70,7 +69,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 ## Podcasts
 
 - [legacycode.rocks](https://www.legacycode.rocks/) - A podcast (and community) created by Andrea Goulet and M. Scott Ford from Corgibytes about the world of modernizing existing software applications.
-- [maintainable.fm](https://www.maintainable.fm/)- A podcast by Robby Russell interviewing seasoned practitioners that know how to work with technical debt and legacy code.
+- [maintainable.fm](https://www.maintainable.fm/) - A podcast by Robby Russell interviewing seasoned practitioners that know how to work with technical debt and legacy code.
 
 **Podcast Episodes**
 - [Grady Booch: Nine Things You Can Do with Old Software @ IEEE Software's On Architecture Podcast (2008)](https://www.computer.org/publications/tech-news/on-architecture/nine-things-you-can-do-with-old-software) - What you "can do intentionally with legacy code, from abandonment to evolution and many things in between" (taken from the podcast episode's description).
