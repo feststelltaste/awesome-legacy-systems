@@ -51,9 +51,12 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 ## Talks
 
--  [Gregor Biswanger @ DWX 2023: Refactoring von .NET Legacy Code](https://www.youtube.com/watch?v=EUDpGLx-vqs) - ein grundsolider Vortrag inkl. großem Hands-On-Teil mit vielen Tipps zum Refactoring von .NET Applikationen auf Code-, Design-, und Architekturebene.
--  [Carola Lilienthal @ RheinJUG 2017: Langlebige Softwarearchitekturen – der Weg aus den technischen Schulden](https://www.youtube.com/watch?v=Nfzuy4L9_UM) - über Architekturerosion und wie diese werkzeuggestützt wieder korrigiert werden kann.
-- [Gernot Starke @ Big Techday 2018: Hilfe, Kind im Brunnen - Systematisch technische Schulden abbauen](https://www.youtube.com/watch?v=t5UjySfIDZ4) - Motivation und Vorstellung eines systematischen Vorgehens zur Verbesserung von Softwarearchitekturen und -systemen.
+- [Gregor Biswanger: Refactoring von .NET Legacy Code @ DWX 2023](https://www.youtube.com/watch?v=EUDpGLx-vqs) - ein grundsolider Vortrag inkl. großem Hands-On-Teil mit vielen Tipps zum Refactoring von .NET Applikationen auf Code-, Design-, und Architekturebene.
+- [Christoph Ehlts, Marcus Deiters: Integration und Migration von unternehmenskritischen Legacy-Anwendungen - Ein organisatorischer und technischer Reisebericht @ BOB 2020](https://media.ccc.de/v/bob2020-107-integration_und_migration_von_unternehmenskritischen_legacy-anwendungen) - ein Erfahrungsbericht von einer Ablösung einer Bestandsverwaltung aus dem Versicherungsumfeld insb. mit Fokus auf die organisatorischen Aspekte einer Migration.
+- [Carola Lilienthal: Langlebige Softwarearchitekturen – der Weg aus den technischen Schulden @ RheinJUG 2017](https://www.youtube.com/watch?v=Nfzuy4L9_UM) - über Architekturerosion und wie diese werkzeuggestützt wieder korrigiert werden kann.
+- [Gernot Starke: Hilfe, Kind im Brunnen - Systematisch technische Schulden abbauen @ Big Techday 2018](https://www.youtube.com/watch?v=t5UjySfIDZ4) - Motivation und Vorstellung eines systematischen Vorgehens zur Verbesserung von Softwarearchitekturen und -systemen.
+
+
 
 
 ## Meetups
