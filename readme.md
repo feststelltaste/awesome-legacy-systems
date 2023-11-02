@@ -90,6 +90,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Sabrina Leandro: How to rewrite, a bit at a time @ DDD Europe 2019](https://www.youtube.com/watch?v=AmicHHpogEg)
 - [Maude Lemaire: How to get away with refactoring @ LeadDevAustin 2018](https://www.youtube.com/watch?v=34tLTZgvOxM)
 - [Sandro Mancuso: Software Modernization: A strategic approach @ Trendyol Tech Meetup 2021](https://www.youtube.com/watch?v=HbbLpYSeAgk)
+- [M. Scott Ford: Keynote about celebrating software maintenance @ MenderCon 2020](https://www.youtube.com/watch?v=3eWGO1HEoLg) - A dense overview of the world of legacy system modernization with many great inspirations for software maintainers.
 - [Sam Newman: Monolith Decomposition Patterns @ NDC Oslo 2019](https://www.youtube.com/watch?v=64w1zbpHGTg)
 - [Gernot Starke: Improving Your Software @ GOTO 2016](https://www.youtube.com/watch?v=B8oJwY2Fq3I)
 - [Jesse Toth: Easy rewrites with ruby and science! @ RubyConf 2014](https://www.youtube.com/watch?v=kgDqUHWVw4A) - A story told about rewriting the permission system at GitHub, a big, mission-critical part of the whole platform.
