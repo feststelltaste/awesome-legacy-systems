@@ -131,7 +131,7 @@ There is so much to learn as a software developer that wants to improve legacy s
 ### Markus Harrer
 Social: [markusharrer.de](https://markusharrer.de)  
 
-Background: Java developer, software architect, software development analyst, CDO (Code Deletion Officer)
+*Background: Java developer, software evolutionist, CDO (Code Deletion Officer)*
 
 #### My top 5 recommendations
 
