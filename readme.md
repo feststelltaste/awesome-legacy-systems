@@ -68,7 +68,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Podcasts
 
-- [legacycode.rocks](https://www.legacycode.rocks/) - A podcast (and community) created by Andrea Goulet and M. Scott Ford from Corgibytes about the world of modernizing existing software applications.
+- [legacycode.rocks](https://legacycode.rocks/) - A podcast (and community) created by Andrea Goulet and M. Scott Ford from Corgibytes about the world of modernizing existing software applications.
 - [maintainable.fm](https://www.maintainable.fm/) - A podcast by Robby Russell interviewing seasoned practitioners that know how to work with technical debt and legacy code.
 
 **Podcast Episodes**
