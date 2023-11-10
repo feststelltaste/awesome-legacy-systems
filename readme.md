@@ -23,6 +23,7 @@ Legacy systems have their own fascinations and challenges that can be much more 
 - [Courses](#courses)
 - [Lists of Tools](#lists-of-tools)
 - [Other Languages](#other-languages)
+- [Learning Paths](#learning-paths)
 - [Related Awesome Lists](#related-awesome-lists)
 
 _The resources are ordered alphabetically the first author's surname for books and articles or the name of the resource for all the other resources)_
@@ -122,6 +123,23 @@ There are plenty of tools out there that can help you with your legacy systems. 
 This list focusses on contant in English. But there is also content out there in other languages.
 
 - German: [Großartige Bestandssysteme](readme_de.md) - Eine kuratierte Liste mit großartigen Ressourcen und Links zum Umgang mit Altsystemen, die Hoffnung macht.
+
+## Learning Paths
+
+There is so much to learn as a software developer that wants to improve legacy systems and code. Here you can find some personal recommendations from others:
+
+### Markus Harrer
+Social: [markusharrer.de](https://markusharrer.de)  
+
+Background: Java developer, software architect, software development analyst, CDO (Code Deletion Officer)
+
+#### My top 5 recommendations
+
+1. Marianne Bellotti: Kill It with Fire
+2. Michael Feathers: Working Effectively with Legacy Code
+3. legacycode.rocks Podcast
+4. Serge Demeyer, Stéphane Ducasse and Oscar Nierstrasz: Object-Oriented Reengineering Patterns
+5. Architecture Improvement Method aim42
 
 
 ## Related Awesome Lists
