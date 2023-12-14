@@ -53,8 +53,10 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 - [Gregor Biswanger: Refactoring von .NET Legacy Code @ DWX 2023](https://www.youtube.com/watch?v=EUDpGLx-vqs) - ein grundsolider Vortrag inkl. großem Hands-On-Teil mit vielen Tipps zum Refactoring von .NET Applikationen auf Code-, Design-, und Architekturebene.
 - [Christoph Ehlts, Marcus Deiters: Integration und Migration von unternehmenskritischen Legacy-Anwendungen - Ein organisatorischer und technischer Reisebericht @ BOB 2020](https://media.ccc.de/v/bob2020-107-integration_und_migration_von_unternehmenskritischen_legacy-anwendungen) - ein Erfahrungsbericht von einer Ablösung einer Bestandsverwaltung aus dem Versicherungsumfeld insb. mit Fokus auf die organisatorischen Aspekte einer Migration.
-- [Carola Lilienthal: Langlebige Softwarearchitekturen – der Weg aus den technischen Schulden @ RheinJUG 2017](https://www.youtube.com/watch?v=Nfzuy4L9_UM) - über Architekturerosion und wie diese werkzeuggestützt wieder korrigiert werden kann.
+- [Carola Lilienthal: Langlebige Softwarearchitekturen – der Weg aus den technischen Schulden @ RheinJUG 2017](https://www.youtube.com/watch?v=Nfzuy4L9_UM) - über Architekturerosion und wie diese Werkzeug-gestützt wieder korrigiert werden kann.
+- [Christian Seifert: Keine Angst vor dem Endgegner: Verbesserungsideen dem Management erklären @ JCON Europe 2023](https://www.youtube.com/watch?v=VlvhjtwZ790) - Talk über das Herausarbeiten von Problemen mittels Zahlen, Daten, Fakten, um in der Sprache des Businesses Verbesserungsbedarfe zu kommunizieren.
 - [Gernot Starke: Hilfe, Kind im Brunnen - Systematisch technische Schulden abbauen @ Big Techday 2018](https://www.youtube.com/watch?v=t5UjySfIDZ4) - Motivation und Vorstellung eines systematischen Vorgehens zur Verbesserung von Softwarearchitekturen und -systemen.
+
 
 
 
