@@ -62,6 +62,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Microsites
 
+- [Architecture Antipatterns](https://architecture-antipatterns.tech/) - An anti-pattern library featuring common pitfalls encountered when approaching software architecture the wrong way, including tips on how to avoid creating the next legacy system monster.
 - [Architecture Improvement Method aim42](https://aim42.github.io/) - A collection of practices and patterns to support software evolution, modernization, maintenance, migration, and improvement of software systems. (transparency hint: the maintainer is one of the authors of this list).
 - [Cloud Native Transformation Patterns: Tools for creating effective Cloud Native architecture &ndash; and remaking the way we work](https://www.cnpatterns.org/) - Collection of patterns on different levels (strategy, development, operations etc.) that show many ideas what one can do with existing applications that should be moved to the cloud. Many of the patterns work also for non-cloud environments.
 - [Open Practice Library](https://openpracticelibrary.com/) - A collection of methods and practices that go beyond software modernization, but could be helpful if you're not only facing problems within software systems.
