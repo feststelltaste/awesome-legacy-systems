@@ -67,6 +67,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Cloud Native Transformation Patterns: Tools for creating effective Cloud Native architecture &ndash; and remaking the way we work](https://www.cnpatterns.org/) - Collection of patterns on different levels (strategy, development, operations etc.) that show many ideas what one can do with existing applications that should be moved to the cloud. Many of the patterns work also for non-cloud environments.
 - [Open Practice Library](https://openpracticelibrary.com/) - A collection of methods and practices that go beyond software modernization, but could be helpful if you're not only facing problems within software systems.
 - [Patterns of Legacy Displacement: Effective modernization of legacy software systems](https://martinfowler.com/articles/patterns-legacy-displacement/) - A collection of procedures, patterns and experience reports around the piecemeal replacement of legacy systems.
+- [Henning Schwentner: Domain-Driven Refactorings](https://hschwentner.io/domain-driven-refactorings/) - A set of refactoring patterns and step-by-step instructions to help restructure existing codebases to better align with the concepts of a business domain.
 
 ## Podcasts
 
