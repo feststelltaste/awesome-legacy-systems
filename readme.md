@@ -16,6 +16,7 @@ Legacy systems have their own fascinations and challenges that can be much more 
 
 - [Books](#books)
 - [Blogs](#blogs)
+- [Articles](#articles)
 - [Microsites](#microsites)
 - [Podcasts](#podcasts)
 - [Talks](#talks)
@@ -51,14 +52,14 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 - [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/)
 - [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com)
-- [Torsten Mandry: Visualizing the progress of a refactoring into a hexagonal architecture using jQAssistant](https://www.innoq.com/en/blog/visualizing-progress-of-refactoring-into-hexagonal-architecture-using-jqassistant/) - Tracking long-term architectural refactorings with architecture management tools. Nice application using constraints / rule violations to track the desired and current architecture style differences.
 - [Peter Morlion: Helping companies tackle legacy code, and other software development musings](https://www.petermorlion.com/)
 
 
-**Blog Posts and Articles**
+## Articles
 
 - [Erich Eichinger: Heuristics for Identifying Service Boundaries (2018)](https://opencredo.com/blogs/identify-service-boundary-heuristics/) - Practical guidelines to help break down large systems into smaller, manageable services by considering domains, process flows, data locality, organizational boundaries, and more.
 - [Markus Harrer: 17 actions you can take to move your legacy system forward (2021)](https://threadreaderapp.com/thread/1451148235121299461.html) - A Twitter thread that lists plenty of options you have when you want to do something with your legacy system.
+- [Torsten Mandry: Visualizing the progress of a refactoring into a hexagonal architecture using jQAssistant](https://www.innoq.com/en/blog/visualizing-progress-of-refactoring-into-hexagonal-architecture-using-jqassistant/) - Tracking long-term architectural refactorings with architecture management tools. Nice application using constraints / rule violations to track the desired and current architecture style differences.
 - [Matthew Skelton, Manuel Pais: Independent Service Heuristics (2020)](https://github.com/TeamTopologies/Independent-Service-Heuristics) - A checklist with valuable insights to evaluate whether your system's modularization ideas make possible sense.
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - A braindump that brings several methods for different legacy system modernization tasks together into one framework.
 - [Mathias Verraes: The Legacy Mirror Heuristic (2021)](https://verraes.net/2021/03/heuristic-legacy-mirror/) - A great decision-making method that helps evaluate new ideas by imagining if the new idea were the established norm and the old idea were the new proposal.
