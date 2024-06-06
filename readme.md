@@ -59,6 +59,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 - [Markus Harrer: 17 actions you can take to move your legacy system forward](https://twitter.com/feststelltaste/status/1451148235121299461) - A Twitter thread that lists which options you have when you want to do something with your legacy system.
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - A braindump that brings several methods for different legacy system modernization tasks together into one framework.
+- [Mathias Verraes: The Legacy Mirror Heuristic](https://verraes.net/2021/03/heuristic-legacy-mirror/) - A great decision-making method that helps evaluate new ideas by imagining if the new idea were the established norm and the old idea were the new proposal.
 
 ## Microsites
 
