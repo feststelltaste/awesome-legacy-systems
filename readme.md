@@ -50,9 +50,9 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 ## Blogs
 
-- [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/)
-- [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com)
-- [Peter Morlion: Helping companies tackle legacy code, and other software development musings](https://www.petermorlion.com/)
+- [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/) - Offers strategies for refactoring both code and organizational structures to achieve a sustainable development pace.
+- [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com) - Practical advice and techniques to manage and refactor legacy codebases safely.
+- [Peter Morlion: Helping companies tackle legacy code, and other software development musings](https://www.petermorlion.com/) - Provides insights and strategies for tackling legacy code and improving software development practices.
 
 
 ## Articles
