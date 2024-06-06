@@ -57,11 +57,11 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 **Blog Posts and Articles**
 
-- [Erich Eichinger: Heuristics for Identifying Service Boundaries](https://opencredo.com/blogs/identify-service-boundary-heuristics/) - Practical guidelines to help break down large systems into smaller, manageable services by considering domains, process flows, data locality, organizational boundaries, and more.
-- [Markus Harrer: 17 actions you can take to move your legacy system forward](https://twitter.com/feststelltaste/status/1451148235121299461) - A Twitter thread that lists which options you have when you want to do something with your legacy system.
-- [Matthew Skelton, Manuel Pais: Independent Service Heuristics](https://github.com/TeamTopologies/Independent-Service-Heuristics) - A checklist with valuable insights to evaluate whether your system's modularization ideas make possible sense.
+- [Erich Eichinger: Heuristics for Identifying Service Boundaries (2018)](https://opencredo.com/blogs/identify-service-boundary-heuristics/) - Practical guidelines to help break down large systems into smaller, manageable services by considering domains, process flows, data locality, organizational boundaries, and more.
+- [Markus Harrer: 17 actions you can take to move your legacy system forward (2021)](https://threadreaderapp.com/thread/1451148235121299461.html) - A Twitter thread that lists plenty of options you have when you want to do something with your legacy system.
+- [Matthew Skelton, Manuel Pais: Independent Service Heuristics (2020)](https://github.com/TeamTopologies/Independent-Service-Heuristics) - A checklist with valuable insights to evaluate whether your system's modularization ideas make possible sense.
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - A braindump that brings several methods for different legacy system modernization tasks together into one framework.
-- [Mathias Verraes: The Legacy Mirror Heuristic](https://verraes.net/2021/03/heuristic-legacy-mirror/) - A great decision-making method that helps evaluate new ideas by imagining if the new idea were the established norm and the old idea were the new proposal.
+- [Mathias Verraes: The Legacy Mirror Heuristic (2021)](https://verraes.net/2021/03/heuristic-legacy-mirror/) - A great decision-making method that helps evaluate new ideas by imagining if the new idea were the established norm and the old idea were the new proposal.
 
 
 ## Microsites
