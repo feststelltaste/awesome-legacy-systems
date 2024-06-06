@@ -52,6 +52,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 
 - [Philippe Bourgau's XP Coaching Blog: Refactoring Code and Orgs to a Sustainable Pace](https://philippe.bourgau.net/) - Offers strategies for refactoring both code and organizational structures to achieve a sustainable development pace.
 - [Nicolas Carlo: Understand Legacy Code: Change Messy Software Without Breaking It](https://understandlegacycode.com) - Practical advice and techniques to manage and refactor legacy codebases safely.
+- [Markus Harrer: About Legacy Systems, Software Analytics and the Fundamental Problems of Software Engineering](https://www.feststelltaste.de/) - Delves into the challenges of legacy systems and software analytics, providing practical advice on software engineering, system modernization, and data-driven decision-making.
 - [Peter Morlion: Helping companies tackle legacy code, and other software development musings](https://www.petermorlion.com/) - Provides insights and strategies for tackling legacy code and improving software development practices.
 
 
