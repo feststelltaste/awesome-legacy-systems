@@ -126,6 +126,7 @@ There are plenty of tools out there that can help you with your legacy systems. 
 - [Analysis-Tools.dev](https://analysis-tools.dev/) - Static analysis tools for many programming languages, build tools, config files and more.
 - [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - Tools for in-depth runtime analysis.
 - [OpenAPM](https://openapm.io/landscape) - Lists various Application Performance Management tools that can help you to find performance problems.
+- [Sandra Parsick: maintenance-talk](https://github.com/sparsick/maintenance-talk) - A talk on how to tackle maintenance hell, including a list of valuable tools to rid of it.
 
 
 ## Other Languages
