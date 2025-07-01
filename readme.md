@@ -133,6 +133,7 @@ There are plenty of tools out there that can help you with your legacy systems. 
 - [Awesome Open Source - Profilers](https://awesomeopensource.com/projects/profiler) - Tools for in-depth runtime analysis.
 - [OpenAPM](https://openapm.io/landscape) - Lists various Application Performance Management tools that can help you to find performance problems.
 - [Sandra Parsick: maintenance-talk](https://github.com/sparsick/maintenance-talk) - A talk on how to tackle maintenance hell, including a list of valuable tools to rid of it.
+- [Michael Stal: Technical Debt Record (TDR) Generator](https://github.com/ms1963/TechnicalDebtRecords/) - A Go-based CLI tool to create structured Technical Debt Records (TDRs) that document and track technical debt in a project.
 
 
 ## Other Languages
@@ -151,6 +152,8 @@ Social: [markusharrer.de](https://markusharrer.de)
 *Background: Java developer, software evolutionist, software development analyst, CDO (Code Deletion Officer)*
 
 #### My top 5 recommendations
+
+I know that there are now plenty of nice resources on this page by now. But if you  want to get some hints how I would start with those, here you find a listing:
 
 1. Marianne Bellotti: Kill It with Fire
 2. Michael Feathers: Working Effectively with Legacy Code
