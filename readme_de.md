@@ -44,6 +44,10 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 
 ## Podcasts
+**Videoreihen**
+
+* [OPEN Digitalgruppe: Symfony Modernisierung as a Service](https://www.youtube.com/playlist?list=PLRWDZAoBv0m8BuLVzxI-rBTCtj8ZVYPqN) - Videoserie mit kurzen Episoden zur Modernisierung von PHP / Symphony-Anwendungen, welche aber auch viele Vorgehensweisen und Tipps beinhaltet, die universell im Modernisierungsumfeld einsetzbar sind.
+
 **Episoden**
 
 * [Veronika Jungwirth, Thomas Ronzon und Dr. Ralph Miarka: SoftwareArchitekTOUR - Episode 91: Software-Retrofit – Soft und Hard Skills Hand in Hand (2023)](https://www.heise.de/blog/Episode-91-Software-Retrofit-Soft-und-Hard-Skills-Hand-in-Hand-7133866.html) - die Podcast-Folge beschreibt sehr gut, wie erste Schritte sowie Workshops für Softwaremodernisierung durchführen werden können.
