@@ -46,7 +46,7 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 ## Podcasts
 **Videoreihen**
 
-* [OPEN Digitalgruppe: Symfony Modernisierung as a Service](https://www.youtube.com/playlist?list=PLRWDZAoBv0m8BuLVzxI-rBTCtj8ZVYPqN) - Videoserie mit kurzen Episoden zur Modernisierung von PHP / Symphony-Anwendungen, welche aber auch viele Vorgehensweisen und Tipps beinhaltet, die universell im Modernisierungsumfeld einsetzbar sind.
+* [OPEN Digitalgruppe: Symfony Modernisierung as a Service](https://www.youtube.com/playlist?list=PLRWDZAoBv0m8BuLVzxI-rBTCtj8ZVYPqN) - Videoserie mit kurzen Episoden zur Modernisierung von PHP / Symfony-Anwendungen, welche aber auch viele Vorgehensweisen und Tipps beinhaltet, die universell im Modernisierungsumfeld einsetzbar sind.
 
 **Episoden**
 
