@@ -29,10 +29,9 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 - [Christoph Stock: Leitfaden IT-Sanierung: Strategien zur Durchführung von IT-Sanierungen und zum Abbau von technischen Schulden (2022)](https://www.itsanierung.de/) - ein schlankes Buch rund um die Sanierung von Softwaresystemen. Besonders gut sind die vielen Fallstricke, die aufgezeigt werden, wodurch ein realistisches Bild über die Modernisierung von Anwendungen für die Lesenden entsteht. Zahlreiche, praxisnahe Tipps machen das Buch insbesondere für Einsteiger in die Thematik spannend!
 
 
-
 ## Blogs
 
-**Blog Posts**
+### Blog Posts
 
 * [Stephan Kaps: Migrationsstrategien im Vergleich (2016)](https://www.heise.de/ratgeber/Migrationsstrategien-im-Vergleich-3283418.html) - Vorstellung und Diskussion verschiedener, klassischer Migrationsstrategien zur Migration von Anwendungen.
 * [Thomas Ronzon, Henning Schwentner, Veronika Kotrba, Dr. Ralph Miarka: Die 7 Schritte zum Software-Retrofit](https://www.informatik-aktuell.de/entwicklung/methoden/die-7-schritte-zum-software-retrofit.html) - Beschreibung eines Vorgehens, um mit alten Systemen wieder Land zu gewinnen inkl. vieler praxisnaher Tipps und Werkzeugen.
@@ -44,11 +43,12 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 
 ## Podcasts
-**Videoreihen**
+
+### Videoreihen
 
 * [OPEN Digitalgruppe: Symfony Modernisierung as a Service](https://www.youtube.com/playlist?list=PLRWDZAoBv0m8BuLVzxI-rBTCtj8ZVYPqN) - Videoserie mit kurzen Episoden zur Modernisierung von PHP / Symfony-Anwendungen, welche aber auch viele Vorgehensweisen und Tipps beinhaltet, die universell im Modernisierungsumfeld einsetzbar sind.
 
-**Episoden**
+### Episoden
 
 * [Veronika Jungwirth, Thomas Ronzon und Dr. Ralph Miarka: SoftwareArchitekTOUR - Episode 91: Software-Retrofit – Soft und Hard Skills Hand in Hand (2023)](https://www.heise.de/blog/Episode-91-Software-Retrofit-Soft-und-Hard-Skills-Hand-in-Hand-7133866.html) - die Podcast-Folge beschreibt sehr gut, wie erste Schritte sowie Workshops für Softwaremodernisierung durchführen werden können.
 * [Jan Hegewald @ Digitale Leute Insights: über neue Features & nachhaltiger Software-Architektur bei Zalando (2022)](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
@@ -62,9 +62,6 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 - [Christian Seifert: Keine Angst vor dem Endgegner: Verbesserungsideen dem Management erklären @ JCON Europe 2023](https://www.youtube.com/watch?v=VlvhjtwZ790) - Talk über das Herausarbeiten von Problemen mittels Zahlen, Daten, Fakten, um in der Sprache des Businesses Verbesserungsbedarfe zu kommunizieren.
 - [Gernot Starke: Architektur nachdokumentieren @ INNOQ Technology Lunch](https://www.youtube.com/watch?v=78KJt4EOfFE) - Erstellung einer schlanken Architekturdokumentation für Bestandssysteme, wo keinerlei Dokumentation bisher existiert.
 - [Gernot Starke: Hilfe, Kind im Brunnen - Systematisch technische Schulden abbauen @ Big Techday 2018](https://www.youtube.com/watch?v=t5UjySfIDZ4) - Motivation und Vorstellung eines systematischen Vorgehens zur Verbesserung von Softwarearchitekturen und -systemen.
-
-
-
 
 
 ## Meetups
