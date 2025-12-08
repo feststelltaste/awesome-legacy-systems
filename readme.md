@@ -168,6 +168,7 @@ I know that there are now plenty of nice resources on this page by now. But if y
 
 This section lists other awesome lists in the area of legacy systems.
 
+- [Awesome Agentic Software Modernization](https://github.com/feststelltaste/awesome-agentic-software-modernization) - A curated list of tools, frameworks, patterns, and research for AI-driven and agentic approaches to modernizing legacy systems.
 - [Awesome Legacy Code](https://github.com/legacycoderocks/awesome-legacy-code) - A curated list of legacy systems with publicly available source code.
 - [Awesome Modernization](https://github.com/modernizing/awesome-modernization) - Awesome legacy system modernization tools. _(partly in Chinese)_
 - [Awesome Software Analytics](https://github.com/feststelltaste/awesome-software-analytics) - A curated list of awesome resources and links about Software Analytics &ndash; a discipline that tries to analyze software data to get ideas about improving legacy systems.
