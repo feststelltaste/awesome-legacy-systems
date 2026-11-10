@@ -15,6 +15,7 @@
 - [Videos](#videos)
 - [Meetups](#meetups)
 - [Kurse](#kurse)
+- [Top 5](#top-5-empfehlungen)
 
 _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Autorin bei Büchern und Artikeln geordnet (oder dem Namen der Ressourcen, wenn kein Autor oder Autorin vorhanden)._
 
@@ -34,8 +35,8 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 ### Blog Posts
 
-* [Stephan Kaps: Migrationsstrategien im Vergleich (2016)](https://www.heise.de/ratgeber/Migrationsstrategien-im-Vergleich-3283418.html) - Vorstellung und Diskussion verschiedener, klassischer Migrationsstrategien zur Migration von Anwendungen.
-* [Thomas Ronzon, Henning Schwentner, Veronika Kotrba, Dr. Ralph Miarka: Die 7 Schritte zum Software-Retrofit](https://www.informatik-aktuell.de/entwicklung/methoden/die-7-schritte-zum-software-retrofit.html) - Beschreibung eines Vorgehens, um mit alten Systemen wieder Land zu gewinnen inkl. vieler praxisnaher Tipps und Werkzeugen.
+- [Stephan Kaps: Migrationsstrategien im Vergleich (2016)](https://www.heise.de/ratgeber/Migrationsstrategien-im-Vergleich-3283418.html) - Vorstellung und Diskussion verschiedener, klassischer Migrationsstrategien zur Migration von Anwendungen.
+- [Thomas Ronzon, Henning Schwentner, Veronika Kotrba, Dr. Ralph Miarka: Die 7 Schritte zum Software-Retrofit](https://www.informatik-aktuell.de/entwicklung/methoden/die-7-schritte-zum-software-retrofit.html) - Beschreibung eines Vorgehens, um mit alten Systemen wieder Land zu gewinnen inkl. vieler praxisnaher Tipps und Werkzeugen.
 
 
 ## Microsites
@@ -47,8 +48,8 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 
 ### Episoden
 
-* [Veronika Jungwirth, Thomas Ronzon und Dr. Ralph Miarka: SoftwareArchitekTOUR - Episode 91: Software-Retrofit – Soft und Hard Skills Hand in Hand (2023)](https://www.heise.de/blog/Episode-91-Software-Retrofit-Soft-und-Hard-Skills-Hand-in-Hand-7133866.html) - die Podcast-Folge beschreibt sehr gut, wie erste Schritte sowie Workshops für Softwaremodernisierung durchführen werden können.
-* [Jan Hegewald @ Digitale Leute Insights: über neue Features & nachhaltiger Software-Architektur bei Zalando (2022)](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
+- [Veronika Jungwirth, Thomas Ronzon und Dr. Ralph Miarka: SoftwareArchitekTOUR - Episode 91: Software-Retrofit – Soft und Hard Skills Hand in Hand (2023)](https://www.heise.de/blog/Episode-91-Software-Retrofit-Soft-und-Hard-Skills-Hand-in-Hand-7133866.html) - die Podcast-Folge beschreibt sehr gut, wie erste Schritte sowie Workshops für Softwaremodernisierung durchführen werden können.
+- [Jan Hegewald @ Digitale Leute Insights: über neue Features & nachhaltiger Software-Architektur bei Zalando (2022)](https://www.digitale-leute.de/interview/jan-hegewald-software-architektur/) - über den Balanceakt, ständig neue Features zu liefern, aber auch, wie dann mit den vorhandenen Systemen und deren Herausforderungen umgegangen werden kann. Interessant finde ich vor allem die Verwendung eines Prozesses, der auch hinterfragt, ob der Feature-Druck gerechtfertigt ist und welchen Nutzen Features überhaupt stiften.
 
 ## Talks
 
@@ -64,7 +65,7 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 ## Videos
 
 ### Videoreihen
-* [OPEN Digitalgruppe: Symfony Modernisierung as a Service](https://www.youtube.com/playlist?list=PLRWDZAoBv0m8BuLVzxI-rBTCtj8ZVYPqN) - Videoserie mit kurzen Episoden zur Modernisierung von PHP / Symfony-Anwendungen, welche aber auch viele Vorgehensweisen und Tipps beinhaltet, die universell im Modernisierungsumfeld einsetzbar sind.
+- [OPEN Digitalgruppe: Symfony Modernisierung as a Service](https://www.youtube.com/playlist?list=PLRWDZAoBv0m8BuLVzxI-rBTCtj8ZVYPqN) - Videoserie mit kurzen Episoden zur Modernisierung von PHP / Symfony-Anwendungen, welche aber auch viele Vorgehensweisen und Tipps beinhaltet, die universell im Modernisierungsumfeld einsetzbar sind.
 
 
 ## Meetups
@@ -77,3 +78,14 @@ _Die Ressourcen sind alphabetisch nach dem Nachnamen des ersten Autors oder Auto
 - [bezahlt] [Hendrick Lösch: Refactoring: Bestehende Architekturen restrukturieren](https://www.linkedin.com/learning/refactoring-bestehende-architekturen-restrukturieren) - ein Online-Kurs, der einen Überblick darüber gibt, was Du mit einem Altsystemen alles anstellen kannst: von der Code-Ebene bis zur Umstrukturierung kompletter Anwendungslandschaften.
 - [Matthias Riebisch: Vorlesung Software-Reengineering](https://lecture2go.uni-hamburg.de/l2go/-/get/v/27278) - eine komplette Vorlesung, welche das Thema "Reengineering von Softwaresystemen" abdeckt. Besonders gefallen mir die Referenzen auf das Buch "Object-oriented Reengineering Patterns" sowie der ständige Bezug auf die Verbesserung geschäftskritischer Systeme.
 - [bezahlt] [Markus Harrer: Training iSAQB® CPSA®-Advanced IMPROVE - Evolution und Verbesserung von Softwarearchitekturen via @socreatory](https://www.socreatory.com/de/trainings/improve) - ein Training, welches speziell für den besseren Umgang mit verbesserungswürdigen Softwaresystemen ausgelegt ist, zur Bewältigung von Problemen in Altsystemen auf Architektur-, Design- und Code-Ebene. (Transparenzhinweis: Der Hauptautor dieser Liste gibt dieses Training bei dem genannten Schulungsanbieter).
+
+## Top 5 Empfehlungen
+
+Viele Links, aber wie anfangen, in das Thema reinzukommen? Hier sind meine Empfehlungen auf Basis der deutschsprachigen Inhalte:
+
+- Top 1: [Veronika Jungwirth, Thomas Ronzon und Dr. Ralph Miarka: SoftwareArchitekTOUR - Episode 91: Software-Retrofit – Soft und Hard Skills Hand in Hand (2023)](https://www.heise.de/blog/Episode-91-Software-Retrofit-Soft-und-Hard-Skills-Hand-in-Hand-7133866.html) - für einen schnellen Überblick, was bei Modernisierungsprojekten so alles passiert.
+- Top 2: [Christoph Stock: Leitfaden IT-Sanierung: Strategien zur Durchführung von IT-Sanierungen und zum Abbau von technischen Schulden (2022)](https://www.itsanierung.de/) - für das Feeling und die Herausforderungen von Softwaremodernisierungen.
+- Top 3: [Christian Demant: Software Due Diligence: Softwareentwicklung als Asset bewertet (2017)](https://link.springer.com/book/10.1007/978-3-662-53062-7) - für eine komplette Durchführung von Checks im Softwareumfeld inkl. umfangreicher Fragebögen.
+- Top 4: [Carola Lilienthal, Henning Schwentner: Domain-Driven Transformation (2023)](https://dpunkt.de/produkt/domain-driven-transformation/) - für eine Übersicht von methodischen und software-basierten Werkzeugen, die helfen, wenn es wirklich am Code liegt, dass nichts mehr vorangeht.
+- Top 5: [Matthias Riebisch: Vorlesung Software-Reengineering](https://lecture2go.uni-hamburg.de/l2go/-/get/v/27278) - für sehr viele grundlegende Techniken rund um die Erneuerung von Softwaresystemen.
+
