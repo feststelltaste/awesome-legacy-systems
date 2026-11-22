@@ -69,6 +69,7 @@ _The resources are ordered alphabetically the first author's surname for books a
 - [Matthew Skelton, Manuel Pais: Independent Service Heuristics (2020)](https://github.com/TeamTopologies/Independent-Service-Heuristics) - A checklist with valuable insights to evaluate whether your system's modularization ideas make possible sense.
 - [Nick Tune: Legacy Architecture Modernisation With Strategic Domain-Driven Design (2020)](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f) - A braindump that brings several methods for different legacy system modernization tasks together into one framework.
 - [Mathias Verraes: The Legacy Mirror Heuristic (2021)](https://verraes.net/2021/03/heuristic-legacy-mirror/) - A great decision-making method that helps evaluate new ideas by imagining if the new idea were the established norm and the old idea were the new proposal.
+- [Emir Mrkaljevic: What 27 merged PRs taught me about testing a Rust rewrite as a black box (2026)](https://dev.to/emirmrkaljevic/what-27-merged-prs-taught-me-about-testing-a-rust-rewrite-as-a-black-box-4je4) - An experience report on checking a rewrite against the original program by recording the old binary's output, exit codes and error messages as golden master cases and replaying them against the new one.
 
 
 ## Microsites
